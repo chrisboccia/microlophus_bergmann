@@ -1,0 +1,8 @@
+"annual_mean_temp","mean_diurnal_range","isothermality","temperature_seasonality","max_temp_warmest_month","min_temp_coldest_month","ann_temperature_range","mean_temp_wettest_quarter","mean_temp_driest_quarter","mean_temp_warmest_quarter","mean_temp_coldest_quarter","ann_precipitaiton","precip_wettest_month","precip_driest_month","precip_seasonality","precip_wettest_quarter","precip_driest_quarter","precip_warmest_quarter","precip_coldest_quarter","altitude","species"
+180,70,48,2458,255,111,144,151,212,212,149,2,1,0,37,2,0,0,1,-7,"Microlophus_atacamensis"
+222,105,64,2242,312,148,164,252,200,253,197,18,5,0,80,12,0,11,0,47,"Microlophus_occipitalis"
+192,89,56,2587,278,120,158,228,228,228,162,0,0,0,0,0,0,0,0,2,"Microlophus_peruvianus"
+183,121,60,2637,285,85,200,219,181,219,153,3,1,0,43,3,0,3,0,569,"Microlophus_thoracicus"
+192,74,52,2264,269,129,140,164,222,222,164,5,2,0,76,4,0,0,4,10,"Microlophus_quadrivittatus"
+237,108,68,1788,318,161,157,259,217,260,215,133,74,0,166,109,2,102,3,144,"Microlophus_koepckeorum"
+182,99,58,2407,276,108,168,215,179,215,154,13,3,0,59,9,0,9,3,589,"Microlophus_tigris"

@@ -1,0 +1,14 @@
+wc0.5/
+*.dbf
+*.prj
+*.shx
+*.shp
+*.qpj
+*.cpg
+coords_microlophus_wi_range_2021-11-14.xlsx
+microlophus_all_2021-11-02_heterolepis_added.csv
+gadm36_ARG_0_sp.rds
+gadm36_CHL_0_sp.rds
+gadm36_COL_0_sp.rds
+gadm36_ECU_0_sp.rds
+gadm36_PER_0_sp.rds
